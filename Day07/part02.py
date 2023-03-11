@@ -10,33 +10,31 @@ Interessante Aspekte:
 """
 
 
-def calculate(name, tiefe):
+def calculate(name):
     # ist der wert schon berechnet, dann wird er zurückgegeben
     try:
         return int(name)
     except ValueError:
         pass
 
-    print("Tiefe:" + str(tiefe) + " Name: " + name + " Operation: " + str(logikgatter[name]))
-    tiefe += 1
     # wenn es zu der Variable noch keinen Wert gibt --> los
     if name not in ergebnisse:
         # hole die Operation - rechne die fehlenden Werte ggf. rekursiv aus
         ops = logikgatter[name]
         if len(ops) == 1:
-            res = calculate(ops[0], tiefe)
+            res = calculate(ops[0])
         else:
             op = ops[-2]
             if op == 'AND':
-                res = calculate(ops[0], tiefe) & calculate(ops[2], tiefe)
+                res = calculate(ops[0]) & calculate(ops[2])
             elif op == 'OR':
-                res = calculate(ops[0], tiefe) | calculate(ops[2], tiefe)
+                res = calculate(ops[0]) | calculate(ops[2])
             elif op == 'NOT':
-                res = ~calculate(ops[1], tiefe) & 0xffff
+                res = ~calculate(ops[1]) & 0xffff
             elif op == 'RSHIFT':
-                res = calculate(ops[0], tiefe) >> calculate(ops[2], tiefe)
+                res = calculate(ops[0]) >> calculate(ops[2])
             elif op == 'LSHIFT':
-                res = calculate(ops[0], tiefe) << calculate(ops[2], tiefe)
+                res = calculate(ops[0]) << calculate(ops[2])
         ergebnisse[name] = res
 
     return ergebnisse[name]
@@ -45,6 +43,7 @@ def calculate(name, tiefe):
 # log geht's
 logikgatter = dict()
 ergebnisse = dict()
+
 
 # dict mit ergebnis: [a, operator, b]
 for line in lines:
@@ -56,7 +55,9 @@ outfile.write('Eingabewerte:\n')
 for key in logikgatter.keys():
     outfile.write(key + " -> " + str(logikgatter[key]) + "\n")
 
-print("a: %d" % calculate('a', 1))
+ergebnisse['b'] = 956
+valueA = calculate('a')
+print("a: %d" % valueA)
 
 outfile.write('Ausgabewerte:\n')
 outfile.write('Gatter mit Werten:\n')

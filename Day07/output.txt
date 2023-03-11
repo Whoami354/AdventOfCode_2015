@@ -1,0 +1,1018 @@
+Eingabewerte:
+ai -> ['af', 'AND', 'ah']
+ll -> ['NOT', 'lk']
+is -> ['hz', 'RSHIFT', '1']
+gp -> ['NOT', 'go']
+dv -> ['du', 'OR', 'dt']
+aa -> ['x', 'RSHIFT', '5']
+ba -> ['at', 'OR', 'az']
+es -> ['eo', 'LSHIFT', '15']
+cu -> ['ci', 'OR', 'ct']
+f -> ['b', 'RSHIFT', '5']
+fo -> ['fm', 'OR', 'fn']
+ah -> ['NOT', 'ag']
+x -> ['v', 'OR', 'w']
+j -> ['g', 'AND', 'i']
+ar -> ['an', 'LSHIFT', '15']
+cy -> ['1', 'AND', 'cx']
+jy -> ['jq', 'AND', 'jw']
+ix -> ['iu', 'RSHIFT', '5']
+go -> ['gl', 'AND', 'gm']
+bx -> ['NOT', 'bw']
+jr -> ['jp', 'RSHIFT', '3']
+hj -> ['hg', 'AND', 'hh']
+by -> ['bv', 'AND', 'bx']
+et -> ['er', 'OR', 'es']
+ks -> ['kl', 'OR', 'kr']
+fm -> ['et', 'RSHIFT', '1']
+h -> ['e', 'AND', 'f']
+ao -> ['u', 'LSHIFT', '1']
+hx -> ['he', 'RSHIFT', '1']
+ej -> ['eg', 'AND', 'ei']
+bw -> ['bo', 'AND', 'bu']
+eg -> ['dz', 'OR', 'ef']
+ea -> ['dy', 'RSHIFT', '3']
+gn -> ['gl', 'OR', 'gm']
+du -> ['da', 'LSHIFT', '1']
+aw -> ['au', 'OR', 'av']
+gv -> ['gj', 'OR', 'gu']
+fb -> ['eu', 'OR', 'fa']
+ln -> ['lg', 'OR', 'lm']
+g -> ['e', 'OR', 'f']
+dn -> ['NOT', 'dm']
+m -> ['NOT', 'l']
+as -> ['aq', 'OR', 'ar']
+gm -> ['gj', 'RSHIFT', '5']
+hp -> ['hm', 'AND', 'ho']
+gi -> ['ge', 'LSHIFT', '15']
+ki -> ['jp', 'RSHIFT', '1']
+hi -> ['hg', 'OR', 'hh']
+lw -> ['lc', 'LSHIFT', '1']
+ko -> ['km', 'OR', 'kn']
+fk -> ['eq', 'LSHIFT', '1']
+an -> ['1', 'AND', 'am']
+hc -> ['gj', 'RSHIFT', '1']
+am -> ['aj', 'AND', 'al']
+gw -> ['gj', 'AND', 'gu']
+kr -> ['ko', 'AND', 'kq']
+hb -> ['ha', 'OR', 'gz']
+bz -> ['bn', 'OR', 'by']
+jc -> ['iv', 'OR', 'jb']
+ad -> ['NOT', 'ac']
+bv -> ['bo', 'OR', 'bu']
+l -> ['d', 'AND', 'j']
+ce -> ['bk', 'LSHIFT', '1']
+dl -> ['de', 'OR', 'dk']
+dw -> ['dd', 'RSHIFT', '1']
+im -> ['hz', 'AND', 'ik']
+je -> ['NOT', 'jd']
+fp -> ['fo', 'RSHIFT', '2']
+hv -> ['hb', 'LSHIFT', '1']
+lg -> ['lf', 'RSHIFT', '2']
+gl -> ['gj', 'RSHIFT', '3']
+kk -> ['ki', 'OR', 'kj']
+al -> ['NOT', 'ak']
+lf -> ['ld', 'OR', 'le']
+ck -> ['ci', 'RSHIFT', '3']
+cd -> ['1', 'AND', 'cc']
+ky -> ['NOT', 'kx']
+fw -> ['fp', 'OR', 'fv']
+ey -> ['ev', 'AND', 'ew']
+dx -> ['dt', 'LSHIFT', '15']
+ay -> ['NOT', 'ax']
+bs -> ['bp', 'AND', 'bq']
+ij -> ['NOT', 'ii']
+cv -> ['ci', 'AND', 'ct']
+ir -> ['iq', 'OR', 'ip']
+y -> ['x', 'RSHIFT', '2']
+fs -> ['fq', 'OR', 'fr']
+bq -> ['bn', 'RSHIFT', '5']
+c -> ['0']
+b -> ['14146']
+k -> ['d', 'OR', 'j']
+ab -> ['z', 'OR', 'aa']
+gg -> ['gf', 'OR', 'ge']
+dh -> ['df', 'OR', 'dg']
+hk -> ['NOT', 'hj']
+dj -> ['NOT', 'di']
+fn -> ['fj', 'LSHIFT', '15']
+ly -> ['lf', 'RSHIFT', '1']
+p -> ['b', 'AND', 'n']
+jx -> ['jq', 'OR', 'jw']
+gq -> ['gn', 'AND', 'gp']
+aq -> ['x', 'RSHIFT', '1']
+fa -> ['ex', 'AND', 'ez']
+fd -> ['NOT', 'fc']
+bk -> ['bj', 'OR', 'bi']
+av -> ['as', 'RSHIFT', '5']
+hy -> ['hu', 'LSHIFT', '15']
+gt -> ['NOT', 'gs']
+fv -> ['fs', 'AND', 'fu']
+dk -> ['dh', 'AND', 'dj']
+cc -> ['bz', 'AND', 'cb']
+er -> ['dy', 'RSHIFT', '1']
+he -> ['hc', 'OR', 'hd']
+ga -> ['fo', 'OR', 'fz']
+u -> ['t', 'OR', 's']
+d -> ['b', 'RSHIFT', '2']
+jz -> ['NOT', 'jy']
+ia -> ['hz', 'RSHIFT', '2']
+kx -> ['kk', 'AND', 'kv']
+gd -> ['ga', 'AND', 'gc']
+gf -> ['fl', 'LSHIFT', '1']
+ca -> ['bn', 'AND', 'by']
+hs -> ['NOT', 'hr']
+bt -> ['NOT', 'bs']
+lh -> ['lf', 'RSHIFT', '3']
+ax -> ['au', 'AND', 'av']
+ge -> ['1', 'AND', 'gd']
+jt -> ['jr', 'OR', 'js']
+fz -> ['fw', 'AND', 'fy']
+ja -> ['NOT', 'iz']
+t -> ['c', 'LSHIFT', '1']
+eb -> ['dy', 'RSHIFT', '5']
+br -> ['bp', 'OR', 'bq']
+i -> ['NOT', 'h']
+dt -> ['1', 'AND', 'ds']
+ae -> ['ab', 'AND', 'ad']
+bj -> ['ap', 'LSHIFT', '1']
+bu -> ['br', 'AND', 'bt']
+cb -> ['NOT', 'ca']
+em -> ['NOT', 'el']
+w -> ['s', 'LSHIFT', '15']
+gr -> ['gk', 'OR', 'gq']
+fi -> ['ff', 'AND', 'fh']
+kj -> ['kf', 'LSHIFT', '15']
+fx -> ['fp', 'AND', 'fv']
+lj -> ['lh', 'OR', 'li']
+bp -> ['bn', 'RSHIFT', '3']
+kb -> ['jp', 'OR', 'ka']
+lx -> ['lw', 'OR', 'lv']
+jb -> ['iy', 'AND', 'ja']
+ek -> ['dy', 'OR', 'ej']
+bi -> ['1', 'AND', 'bh']
+ku -> ['NOT', 'kt']
+ap -> ['ao', 'OR', 'an']
+ii -> ['ia', 'AND', 'ig']
+ez -> ['NOT', 'ey']
+cg -> ['bn', 'RSHIFT', '1']
+fl -> ['fk', 'OR', 'fj']
+cf -> ['ce', 'OR', 'cd']
+fc -> ['eu', 'AND', 'fa']
+kh -> ['kg', 'OR', 'kf']
+ju -> ['jr', 'AND', 'js']
+iw -> ['iu', 'RSHIFT', '3']
+di -> ['df', 'AND', 'dg']
+do -> ['dl', 'AND', 'dn']
+le -> ['la', 'LSHIFT', '15']
+gh -> ['fo', 'RSHIFT', '1']
+gx -> ['NOT', 'gw']
+gc -> ['NOT', 'gb']
+jl -> ['ir', 'LSHIFT', '1']
+ak -> ['x', 'AND', 'ai']
+hh -> ['he', 'RSHIFT', '5']
+lv -> ['1', 'AND', 'lu']
+fu -> ['NOT', 'ft']
+gj -> ['gh', 'OR', 'gi']
+li -> ['lf', 'RSHIFT', '5']
+z -> ['x', 'RSHIFT', '3']
+e -> ['b', 'RSHIFT', '3']
+hf -> ['he', 'RSHIFT', '2']
+fy -> ['NOT', 'fx']
+jw -> ['jt', 'AND', 'jv']
+hz -> ['hx', 'OR', 'hy']
+kc -> ['jp', 'AND', 'ka']
+fe -> ['fb', 'AND', 'fd']
+il -> ['hz', 'OR', 'ik']
+db -> ['ci', 'RSHIFT', '1']
+gb -> ['fo', 'AND', 'fz']
+ft -> ['fq', 'AND', 'fr']
+gk -> ['gj', 'RSHIFT', '2']
+ci -> ['cg', 'OR', 'ch']
+ch -> ['cd', 'LSHIFT', '15']
+kg -> ['jm', 'LSHIFT', '1']
+ik -> ['ih', 'AND', 'ij']
+fq -> ['fo', 'RSHIFT', '3']
+fr -> ['fo', 'RSHIFT', '5']
+fj -> ['1', 'AND', 'fi']
+la -> ['1', 'AND', 'kz']
+jh -> ['iu', 'AND', 'jf']
+ct -> ['cq', 'AND', 'cs']
+ep -> ['dv', 'LSHIFT', '1']
+hm -> ['hf', 'OR', 'hl']
+kp -> ['km', 'AND', 'kn']
+dm -> ['de', 'AND', 'dk']
+dg -> ['dd', 'RSHIFT', '5']
+lp -> ['NOT', 'lo']
+jv -> ['NOT', 'ju']
+fh -> ['NOT', 'fg']
+cp -> ['cm', 'AND', 'co']
+ed -> ['ea', 'AND', 'eb']
+df -> ['dd', 'RSHIFT', '3']
+gu -> ['gr', 'AND', 'gt']
+eq -> ['ep', 'OR', 'eo']
+cr -> ['cj', 'AND', 'cp']
+lr -> ['lf', 'OR', 'lq']
+ha -> ['gg', 'LSHIFT', '1']
+eu -> ['et', 'RSHIFT', '2']
+ji -> ['NOT', 'jh']
+en -> ['ek', 'AND', 'em']
+jo -> ['jk', 'LSHIFT', '15']
+ih -> ['ia', 'OR', 'ig']
+gy -> ['gv', 'AND', 'gx']
+fg -> ['et', 'AND', 'fe']
+lk -> ['lh', 'AND', 'li']
+ip -> ['1', 'AND', 'io']
+ke -> ['kb', 'AND', 'kd']
+kn -> ['kk', 'RSHIFT', '5']
+ig -> ['id', 'AND', 'if']
+lt -> ['NOT', 'ls']
+dy -> ['dw', 'OR', 'dx']
+dq -> ['dd', 'AND', 'do']
+ls -> ['lf', 'AND', 'lq']
+kd -> ['NOT', 'kc']
+el -> ['dy', 'AND', 'ej']
+kf -> ['1', 'AND', 'ke']
+ff -> ['et', 'OR', 'fe']
+ic -> ['hz', 'RSHIFT', '5']
+dp -> ['dd', 'OR', 'do']
+cq -> ['cj', 'OR', 'cp']
+dr -> ['NOT', 'dq']
+ld -> ['kk', 'RSHIFT', '1']
+jj -> ['jg', 'AND', 'ji']
+hq -> ['he', 'OR', 'hp']
+hl -> ['hi', 'AND', 'hk']
+ds -> ['dp', 'AND', 'dr']
+eh -> ['dz', 'AND', 'ef']
+ib -> ['hz', 'RSHIFT', '3']
+dd -> ['db', 'OR', 'dc']
+iq -> ['hw', 'LSHIFT', '1']
+hr -> ['he', 'AND', 'hp']
+cs -> ['NOT', 'cr']
+lo -> ['lg', 'AND', 'lm']
+hw -> ['hv', 'OR', 'hu']
+io -> ['il', 'AND', 'in']
+ei -> ['NOT', 'eh']
+hd -> ['gz', 'LSHIFT', '15']
+gs -> ['gk', 'AND', 'gq']
+eo -> ['1', 'AND', 'en']
+kq -> ['NOT', 'kp']
+ew -> ['et', 'RSHIFT', '5']
+lm -> ['lj', 'AND', 'll']
+hg -> ['he', 'RSHIFT', '3']
+ev -> ['et', 'RSHIFT', '3']
+bf -> ['as', 'AND', 'bd']
+cx -> ['cu', 'AND', 'cw']
+ka -> ['jx', 'AND', 'jz']
+o -> ['b', 'OR', 'n']
+bh -> ['be', 'AND', 'bg']
+hu -> ['1', 'AND', 'ht']
+gz -> ['1', 'AND', 'gy']
+ho -> ['NOT', 'hn']
+cm -> ['ck', 'OR', 'cl']
+ef -> ['ec', 'AND', 'ee']
+lz -> ['lv', 'LSHIFT', '15']
+kv -> ['ks', 'AND', 'ku']
+if -> ['NOT', 'ie']
+hn -> ['hf', 'AND', 'hl']
+s -> ['1', 'AND', 'r']
+ie -> ['ib', 'AND', 'ic']
+ht -> ['hq', 'AND', 'hs']
+ag -> ['y', 'AND', 'ae']
+ee -> ['NOT', 'ed']
+bm -> ['bi', 'LSHIFT', '15']
+dz -> ['dy', 'RSHIFT', '2']
+cj -> ['ci', 'RSHIFT', '2']
+bg -> ['NOT', 'bf']
+in -> ['NOT', 'im']
+ex -> ['ev', 'OR', 'ew']
+id -> ['ib', 'OR', 'ic']
+bo -> ['bn', 'RSHIFT', '2']
+de -> ['dd', 'RSHIFT', '2']
+bn -> ['bl', 'OR', 'bm']
+bl -> ['as', 'RSHIFT', '1']
+ec -> ['ea', 'OR', 'eb']
+lq -> ['ln', 'AND', 'lp']
+km -> ['kk', 'RSHIFT', '3']
+iu -> ['is', 'OR', 'it']
+iv -> ['iu', 'RSHIFT', '2']
+be -> ['as', 'OR', 'bd']
+it -> ['ip', 'LSHIFT', '15']
+iy -> ['iw', 'OR', 'ix']
+kl -> ['kk', 'RSHIFT', '2']
+bc -> ['NOT', 'bb']
+cl -> ['ci', 'RSHIFT', '5']
+ma -> ['ly', 'OR', 'lz']
+ac -> ['z', 'AND', 'aa']
+jn -> ['iu', 'RSHIFT', '1']
+dc -> ['cy', 'LSHIFT', '15']
+cz -> ['cf', 'LSHIFT', '1']
+au -> ['as', 'RSHIFT', '3']
+da -> ['cz', 'OR', 'cy']
+kz -> ['kw', 'AND', 'ky']
+a -> ['lx']
+iz -> ['iw', 'AND', 'ix']
+lu -> ['lr', 'AND', 'lt']
+js -> ['jp', 'RSHIFT', '5']
+az -> ['aw', 'AND', 'ay']
+jf -> ['jc', 'AND', 'je']
+lc -> ['lb', 'OR', 'la']
+co -> ['NOT', 'cn']
+lb -> ['kh', 'LSHIFT', '1']
+jk -> ['1', 'AND', 'jj']
+af -> ['y', 'OR', 'ae']
+cn -> ['ck', 'AND', 'cl']
+kw -> ['kk', 'OR', 'kv']
+cw -> ['NOT', 'cv']
+kt -> ['kl', 'AND', 'kr']
+jg -> ['iu', 'OR', 'jf']
+bb -> ['at', 'AND', 'az']
+jq -> ['jp', 'RSHIFT', '2']
+jd -> ['iv', 'AND', 'jb']
+jp -> ['jn', 'OR', 'jo']
+aj -> ['x', 'OR', 'ai']
+bd -> ['ba', 'AND', 'bc']
+jm -> ['jl', 'OR', 'jk']
+v -> ['b', 'RSHIFT', '1']
+r -> ['o', 'AND', 'q']
+q -> ['NOT', 'p']
+n -> ['k', 'AND', 'm']
+at -> ['as', 'RSHIFT', '2']
+Ausgabewerte:
+Gatter mit Werten:
+ai -> ['af', 'AND', 'ah']
+ll -> ['NOT', 'lk']
+is -> ['hz', 'RSHIFT', '1']
+gp -> ['NOT', 'go']
+dv -> ['du', 'OR', 'dt']
+aa -> ['x', 'RSHIFT', '5']
+ba -> ['at', 'OR', 'az']
+es -> ['eo', 'LSHIFT', '15']
+cu -> ['ci', 'OR', 'ct']
+f -> ['b', 'RSHIFT', '5']
+fo -> ['fm', 'OR', 'fn']
+ah -> ['NOT', 'ag']
+x -> ['v', 'OR', 'w']
+j -> ['g', 'AND', 'i']
+ar -> ['an', 'LSHIFT', '15']
+cy -> ['1', 'AND', 'cx']
+jy -> ['jq', 'AND', 'jw']
+ix -> ['iu', 'RSHIFT', '5']
+go -> ['gl', 'AND', 'gm']
+bx -> ['NOT', 'bw']
+jr -> ['jp', 'RSHIFT', '3']
+hj -> ['hg', 'AND', 'hh']
+by -> ['bv', 'AND', 'bx']
+et -> ['er', 'OR', 'es']
+ks -> ['kl', 'OR', 'kr']
+fm -> ['et', 'RSHIFT', '1']
+h -> ['e', 'AND', 'f']
+ao -> ['u', 'LSHIFT', '1']
+hx -> ['he', 'RSHIFT', '1']
+ej -> ['eg', 'AND', 'ei']
+bw -> ['bo', 'AND', 'bu']
+eg -> ['dz', 'OR', 'ef']
+ea -> ['dy', 'RSHIFT', '3']
+gn -> ['gl', 'OR', 'gm']
+du -> ['da', 'LSHIFT', '1']
+aw -> ['au', 'OR', 'av']
+gv -> ['gj', 'OR', 'gu']
+fb -> ['eu', 'OR', 'fa']
+ln -> ['lg', 'OR', 'lm']
+g -> ['e', 'OR', 'f']
+dn -> ['NOT', 'dm']
+m -> ['NOT', 'l']
+as -> ['aq', 'OR', 'ar']
+gm -> ['gj', 'RSHIFT', '5']
+hp -> ['hm', 'AND', 'ho']
+gi -> ['ge', 'LSHIFT', '15']
+ki -> ['jp', 'RSHIFT', '1']
+hi -> ['hg', 'OR', 'hh']
+lw -> ['lc', 'LSHIFT', '1']
+ko -> ['km', 'OR', 'kn']
+fk -> ['eq', 'LSHIFT', '1']
+an -> ['1', 'AND', 'am']
+hc -> ['gj', 'RSHIFT', '1']
+am -> ['aj', 'AND', 'al']
+gw -> ['gj', 'AND', 'gu']
+kr -> ['ko', 'AND', 'kq']
+hb -> ['ha', 'OR', 'gz']
+bz -> ['bn', 'OR', 'by']
+jc -> ['iv', 'OR', 'jb']
+ad -> ['NOT', 'ac']
+bv -> ['bo', 'OR', 'bu']
+l -> ['d', 'AND', 'j']
+ce -> ['bk', 'LSHIFT', '1']
+dl -> ['de', 'OR', 'dk']
+dw -> ['dd', 'RSHIFT', '1']
+im -> ['hz', 'AND', 'ik']
+je -> ['NOT', 'jd']
+fp -> ['fo', 'RSHIFT', '2']
+hv -> ['hb', 'LSHIFT', '1']
+lg -> ['lf', 'RSHIFT', '2']
+gl -> ['gj', 'RSHIFT', '3']
+kk -> ['ki', 'OR', 'kj']
+al -> ['NOT', 'ak']
+lf -> ['ld', 'OR', 'le']
+ck -> ['ci', 'RSHIFT', '3']
+cd -> ['1', 'AND', 'cc']
+ky -> ['NOT', 'kx']
+fw -> ['fp', 'OR', 'fv']
+ey -> ['ev', 'AND', 'ew']
+dx -> ['dt', 'LSHIFT', '15']
+ay -> ['NOT', 'ax']
+bs -> ['bp', 'AND', 'bq']
+ij -> ['NOT', 'ii']
+cv -> ['ci', 'AND', 'ct']
+ir -> ['iq', 'OR', 'ip']
+y -> ['x', 'RSHIFT', '2']
+fs -> ['fq', 'OR', 'fr']
+bq -> ['bn', 'RSHIFT', '5']
+c -> ['0']
+b -> ['14146']
+k -> ['d', 'OR', 'j']
+ab -> ['z', 'OR', 'aa']
+gg -> ['gf', 'OR', 'ge']
+dh -> ['df', 'OR', 'dg']
+hk -> ['NOT', 'hj']
+dj -> ['NOT', 'di']
+fn -> ['fj', 'LSHIFT', '15']
+ly -> ['lf', 'RSHIFT', '1']
+p -> ['b', 'AND', 'n']
+jx -> ['jq', 'OR', 'jw']
+gq -> ['gn', 'AND', 'gp']
+aq -> ['x', 'RSHIFT', '1']
+fa -> ['ex', 'AND', 'ez']
+fd -> ['NOT', 'fc']
+bk -> ['bj', 'OR', 'bi']
+av -> ['as', 'RSHIFT', '5']
+hy -> ['hu', 'LSHIFT', '15']
+gt -> ['NOT', 'gs']
+fv -> ['fs', 'AND', 'fu']
+dk -> ['dh', 'AND', 'dj']
+cc -> ['bz', 'AND', 'cb']
+er -> ['dy', 'RSHIFT', '1']
+he -> ['hc', 'OR', 'hd']
+ga -> ['fo', 'OR', 'fz']
+u -> ['t', 'OR', 's']
+d -> ['b', 'RSHIFT', '2']
+jz -> ['NOT', 'jy']
+ia -> ['hz', 'RSHIFT', '2']
+kx -> ['kk', 'AND', 'kv']
+gd -> ['ga', 'AND', 'gc']
+gf -> ['fl', 'LSHIFT', '1']
+ca -> ['bn', 'AND', 'by']
+hs -> ['NOT', 'hr']
+bt -> ['NOT', 'bs']
+lh -> ['lf', 'RSHIFT', '3']
+ax -> ['au', 'AND', 'av']
+ge -> ['1', 'AND', 'gd']
+jt -> ['jr', 'OR', 'js']
+fz -> ['fw', 'AND', 'fy']
+ja -> ['NOT', 'iz']
+t -> ['c', 'LSHIFT', '1']
+eb -> ['dy', 'RSHIFT', '5']
+br -> ['bp', 'OR', 'bq']
+i -> ['NOT', 'h']
+dt -> ['1', 'AND', 'ds']
+ae -> ['ab', 'AND', 'ad']
+bj -> ['ap', 'LSHIFT', '1']
+bu -> ['br', 'AND', 'bt']
+cb -> ['NOT', 'ca']
+em -> ['NOT', 'el']
+w -> ['s', 'LSHIFT', '15']
+gr -> ['gk', 'OR', 'gq']
+fi -> ['ff', 'AND', 'fh']
+kj -> ['kf', 'LSHIFT', '15']
+fx -> ['fp', 'AND', 'fv']
+lj -> ['lh', 'OR', 'li']
+bp -> ['bn', 'RSHIFT', '3']
+kb -> ['jp', 'OR', 'ka']
+lx -> ['lw', 'OR', 'lv']
+jb -> ['iy', 'AND', 'ja']
+ek -> ['dy', 'OR', 'ej']
+bi -> ['1', 'AND', 'bh']
+ku -> ['NOT', 'kt']
+ap -> ['ao', 'OR', 'an']
+ii -> ['ia', 'AND', 'ig']
+ez -> ['NOT', 'ey']
+cg -> ['bn', 'RSHIFT', '1']
+fl -> ['fk', 'OR', 'fj']
+cf -> ['ce', 'OR', 'cd']
+fc -> ['eu', 'AND', 'fa']
+kh -> ['kg', 'OR', 'kf']
+ju -> ['jr', 'AND', 'js']
+iw -> ['iu', 'RSHIFT', '3']
+di -> ['df', 'AND', 'dg']
+do -> ['dl', 'AND', 'dn']
+le -> ['la', 'LSHIFT', '15']
+gh -> ['fo', 'RSHIFT', '1']
+gx -> ['NOT', 'gw']
+gc -> ['NOT', 'gb']
+jl -> ['ir', 'LSHIFT', '1']
+ak -> ['x', 'AND', 'ai']
+hh -> ['he', 'RSHIFT', '5']
+lv -> ['1', 'AND', 'lu']
+fu -> ['NOT', 'ft']
+gj -> ['gh', 'OR', 'gi']
+li -> ['lf', 'RSHIFT', '5']
+z -> ['x', 'RSHIFT', '3']
+e -> ['b', 'RSHIFT', '3']
+hf -> ['he', 'RSHIFT', '2']
+fy -> ['NOT', 'fx']
+jw -> ['jt', 'AND', 'jv']
+hz -> ['hx', 'OR', 'hy']
+kc -> ['jp', 'AND', 'ka']
+fe -> ['fb', 'AND', 'fd']
+il -> ['hz', 'OR', 'ik']
+db -> ['ci', 'RSHIFT', '1']
+gb -> ['fo', 'AND', 'fz']
+ft -> ['fq', 'AND', 'fr']
+gk -> ['gj', 'RSHIFT', '2']
+ci -> ['cg', 'OR', 'ch']
+ch -> ['cd', 'LSHIFT', '15']
+kg -> ['jm', 'LSHIFT', '1']
+ik -> ['ih', 'AND', 'ij']
+fq -> ['fo', 'RSHIFT', '3']
+fr -> ['fo', 'RSHIFT', '5']
+fj -> ['1', 'AND', 'fi']
+la -> ['1', 'AND', 'kz']
+jh -> ['iu', 'AND', 'jf']
+ct -> ['cq', 'AND', 'cs']
+ep -> ['dv', 'LSHIFT', '1']
+hm -> ['hf', 'OR', 'hl']
+kp -> ['km', 'AND', 'kn']
+dm -> ['de', 'AND', 'dk']
+dg -> ['dd', 'RSHIFT', '5']
+lp -> ['NOT', 'lo']
+jv -> ['NOT', 'ju']
+fh -> ['NOT', 'fg']
+cp -> ['cm', 'AND', 'co']
+ed -> ['ea', 'AND', 'eb']
+df -> ['dd', 'RSHIFT', '3']
+gu -> ['gr', 'AND', 'gt']
+eq -> ['ep', 'OR', 'eo']
+cr -> ['cj', 'AND', 'cp']
+lr -> ['lf', 'OR', 'lq']
+ha -> ['gg', 'LSHIFT', '1']
+eu -> ['et', 'RSHIFT', '2']
+ji -> ['NOT', 'jh']
+en -> ['ek', 'AND', 'em']
+jo -> ['jk', 'LSHIFT', '15']
+ih -> ['ia', 'OR', 'ig']
+gy -> ['gv', 'AND', 'gx']
+fg -> ['et', 'AND', 'fe']
+lk -> ['lh', 'AND', 'li']
+ip -> ['1', 'AND', 'io']
+ke -> ['kb', 'AND', 'kd']
+kn -> ['kk', 'RSHIFT', '5']
+ig -> ['id', 'AND', 'if']
+lt -> ['NOT', 'ls']
+dy -> ['dw', 'OR', 'dx']
+dq -> ['dd', 'AND', 'do']
+ls -> ['lf', 'AND', 'lq']
+kd -> ['NOT', 'kc']
+el -> ['dy', 'AND', 'ej']
+kf -> ['1', 'AND', 'ke']
+ff -> ['et', 'OR', 'fe']
+ic -> ['hz', 'RSHIFT', '5']
+dp -> ['dd', 'OR', 'do']
+cq -> ['cj', 'OR', 'cp']
+dr -> ['NOT', 'dq']
+ld -> ['kk', 'RSHIFT', '1']
+jj -> ['jg', 'AND', 'ji']
+hq -> ['he', 'OR', 'hp']
+hl -> ['hi', 'AND', 'hk']
+ds -> ['dp', 'AND', 'dr']
+eh -> ['dz', 'AND', 'ef']
+ib -> ['hz', 'RSHIFT', '3']
+dd -> ['db', 'OR', 'dc']
+iq -> ['hw', 'LSHIFT', '1']
+hr -> ['he', 'AND', 'hp']
+cs -> ['NOT', 'cr']
+lo -> ['lg', 'AND', 'lm']
+hw -> ['hv', 'OR', 'hu']
+io -> ['il', 'AND', 'in']
+ei -> ['NOT', 'eh']
+hd -> ['gz', 'LSHIFT', '15']
+gs -> ['gk', 'AND', 'gq']
+eo -> ['1', 'AND', 'en']
+kq -> ['NOT', 'kp']
+ew -> ['et', 'RSHIFT', '5']
+lm -> ['lj', 'AND', 'll']
+hg -> ['he', 'RSHIFT', '3']
+ev -> ['et', 'RSHIFT', '3']
+bf -> ['as', 'AND', 'bd']
+cx -> ['cu', 'AND', 'cw']
+ka -> ['jx', 'AND', 'jz']
+o -> ['b', 'OR', 'n']
+bh -> ['be', 'AND', 'bg']
+hu -> ['1', 'AND', 'ht']
+gz -> ['1', 'AND', 'gy']
+ho -> ['NOT', 'hn']
+cm -> ['ck', 'OR', 'cl']
+ef -> ['ec', 'AND', 'ee']
+lz -> ['lv', 'LSHIFT', '15']
+kv -> ['ks', 'AND', 'ku']
+if -> ['NOT', 'ie']
+hn -> ['hf', 'AND', 'hl']
+s -> ['1', 'AND', 'r']
+ie -> ['ib', 'AND', 'ic']
+ht -> ['hq', 'AND', 'hs']
+ag -> ['y', 'AND', 'ae']
+ee -> ['NOT', 'ed']
+bm -> ['bi', 'LSHIFT', '15']
+dz -> ['dy', 'RSHIFT', '2']
+cj -> ['ci', 'RSHIFT', '2']
+bg -> ['NOT', 'bf']
+in -> ['NOT', 'im']
+ex -> ['ev', 'OR', 'ew']
+id -> ['ib', 'OR', 'ic']
+bo -> ['bn', 'RSHIFT', '2']
+de -> ['dd', 'RSHIFT', '2']
+bn -> ['bl', 'OR', 'bm']
+bl -> ['as', 'RSHIFT', '1']
+ec -> ['ea', 'OR', 'eb']
+lq -> ['ln', 'AND', 'lp']
+km -> ['kk', 'RSHIFT', '3']
+iu -> ['is', 'OR', 'it']
+iv -> ['iu', 'RSHIFT', '2']
+be -> ['as', 'OR', 'bd']
+it -> ['ip', 'LSHIFT', '15']
+iy -> ['iw', 'OR', 'ix']
+kl -> ['kk', 'RSHIFT', '2']
+bc -> ['NOT', 'bb']
+cl -> ['ci', 'RSHIFT', '5']
+ma -> ['ly', 'OR', 'lz']
+ac -> ['z', 'AND', 'aa']
+jn -> ['iu', 'RSHIFT', '1']
+dc -> ['cy', 'LSHIFT', '15']
+cz -> ['cf', 'LSHIFT', '1']
+au -> ['as', 'RSHIFT', '3']
+da -> ['cz', 'OR', 'cy']
+kz -> ['kw', 'AND', 'ky']
+a -> ['lx']
+iz -> ['iw', 'AND', 'ix']
+lu -> ['lr', 'AND', 'lt']
+js -> ['jp', 'RSHIFT', '5']
+az -> ['aw', 'AND', 'ay']
+jf -> ['jc', 'AND', 'je']
+lc -> ['lb', 'OR', 'la']
+co -> ['NOT', 'cn']
+lb -> ['kh', 'LSHIFT', '1']
+jk -> ['1', 'AND', 'jj']
+af -> ['y', 'OR', 'ae']
+cn -> ['ck', 'AND', 'cl']
+kw -> ['kk', 'OR', 'kv']
+cw -> ['NOT', 'cv']
+kt -> ['kl', 'AND', 'kr']
+jg -> ['iu', 'OR', 'jf']
+bb -> ['at', 'AND', 'az']
+jq -> ['jp', 'RSHIFT', '2']
+jd -> ['iv', 'AND', 'jb']
+jp -> ['jn', 'OR', 'jo']
+aj -> ['x', 'OR', 'ai']
+bd -> ['ba', 'AND', 'bc']
+jm -> ['jl', 'OR', 'jk']
+v -> ['b', 'RSHIFT', '1']
+r -> ['o', 'AND', 'q']
+q -> ['NOT', 'p']
+n -> ['k', 'AND', 'm']
+at -> ['as', 'RSHIFT', '2']
+Ergebnisse:
+b -> 956
+c -> 0
+t -> 0
+d -> 239
+e -> 119
+f -> 29
+g -> 127
+h -> 21
+i -> 65514
+j -> 106
+k -> 239
+l -> 106
+m -> 65429
+n -> 133
+o -> 957
+p -> 132
+q -> 65403
+r -> 825
+s -> 1
+u -> 1
+ao -> 2
+v -> 478
+w -> 32768
+x -> 33246
+y -> 8311
+z -> 4155
+aa -> 1038
+ab -> 5183
+ac -> 10
+ad -> 65525
+ae -> 5173
+af -> 13431
+ag -> 53
+ah -> 65482
+ai -> 13378
+aj -> 46558
+ak -> 66
+al -> 65469
+am -> 46492
+an -> 0
+ap -> 2
+bj -> 4
+aq -> 16623
+ar -> 0
+as -> 16623
+at -> 4155
+au -> 2077
+av -> 519
+aw -> 2591
+ax -> 5
+ay -> 65530
+az -> 2586
+ba -> 6715
+bb -> 26
+bc -> 65509
+bd -> 6689
+be -> 23279
+bf -> 33
+bg -> 65502
+bh -> 23246
+bi -> 0
+bk -> 4
+ce -> 8
+bl -> 8311
+bm -> 0
+bn -> 8311
+bo -> 2077
+bp -> 1038
+bq -> 259
+br -> 1295
+bs -> 2
+bt -> 65533
+bu -> 1293
+bv -> 3357
+bw -> 13
+bx -> 65522
+by -> 3344
+bz -> 11639
+ca -> 16
+cb -> 65519
+cc -> 11623
+cd -> 1
+cf -> 9
+cz -> 18
+cg -> 4155
+ch -> 32768
+ci -> 36923
+cj -> 9230
+ck -> 4615
+cl -> 1153
+cm -> 5767
+cn -> 1
+co -> 65534
+cp -> 5766
+cq -> 13966
+cr -> 1030
+cs -> 64505
+ct -> 12936
+cu -> 45755
+cv -> 4104
+cw -> 61431
+cx -> 41651
+cy -> 1
+da -> 19
+du -> 38
+db -> 18461
+dc -> 32768
+dd -> 51229
+de -> 12807
+df -> 6403
+dg -> 1600
+dh -> 8003
+di -> 0
+dj -> 65535
+dk -> 8003
+dl -> 16199
+dm -> 4611
+dn -> 60924
+do -> 11588
+dp -> 60765
+dq -> 2052
+dr -> 63483
+ds -> 58713
+dt -> 1
+dv -> 39
+ep -> 78
+dw -> 25614
+dx -> 32768
+dy -> 58382
+dz -> 14595
+ea -> 7297
+eb -> 1824
+ec -> 8097
+ed -> 1024
+ee -> 64511
+ef -> 7073
+eg -> 15267
+eh -> 6401
+ei -> 59134
+ej -> 8866
+ek -> 59054
+el -> 8194
+em -> 57341
+en -> 50860
+eo -> 0
+eq -> 78
+fk -> 156
+er -> 29191
+es -> 0
+et -> 29191
+eu -> 7297
+ev -> 3648
+ew -> 912
+ex -> 4048
+ey -> 512
+ez -> 65023
+fa -> 3536
+fb -> 7633
+fc -> 3200
+fd -> 62335
+fe -> 4433
+ff -> 29527
+fg -> 4097
+fh -> 61438
+fi -> 25430
+fj -> 0
+fl -> 156
+gf -> 312
+fm -> 14595
+fn -> 0
+fo -> 14595
+fp -> 3648
+fq -> 1824
+fr -> 456
+fs -> 2024
+ft -> 256
+fu -> 65279
+fv -> 1768
+fw -> 3816
+fx -> 1600
+fy -> 63935
+fz -> 2216
+ga -> 14763
+gb -> 2048
+gc -> 63487
+gd -> 12715
+ge -> 1
+gg -> 313
+ha -> 626
+gh -> 7297
+gi -> 32768
+gj -> 40065
+gk -> 10016
+gl -> 5008
+gm -> 1252
+gn -> 6132
+go -> 128
+gp -> 65407
+gq -> 6004
+gr -> 14196
+gs -> 1824
+gt -> 63711
+gu -> 12372
+gv -> 48341
+gw -> 4096
+gx -> 61439
+gy -> 44245
+gz -> 1
+hb -> 627
+hv -> 1254
+hc -> 20032
+hd -> 32768
+he -> 52800
+hf -> 13200
+hg -> 6600
+hh -> 1650
+hi -> 8186
+hj -> 64
+hk -> 65471
+hl -> 8122
+hm -> 16314
+hn -> 5008
+ho -> 60527
+hp -> 11306
+hq -> 61034
+hr -> 3072
+hs -> 62463
+ht -> 57962
+hu -> 0
+hw -> 1254
+iq -> 2508
+hx -> 26400
+hy -> 0
+hz -> 26400
+ia -> 6600
+ib -> 3300
+ic -> 825
+id -> 4093
+ie -> 32
+if -> 65503
+ig -> 4061
+ih -> 8157
+ii -> 2504
+ij -> 63031
+ik -> 5653
+il -> 30517
+im -> 1536
+in -> 63999
+io -> 28981
+ip -> 1
+ir -> 2509
+jl -> 5018
+is -> 13200
+it -> 32768
+iu -> 45968
+iv -> 11492
+iw -> 5746
+ix -> 1436
+iy -> 6142
+iz -> 1040
+ja -> 64495
+jb -> 5102
+jc -> 16366
+jd -> 228
+je -> 65307
+jf -> 16138
+jg -> 49050
+jh -> 13056
+ji -> 52479
+jj -> 35994
+jk -> 0
+jm -> 5018
+kg -> 10036
+jn -> 22984
+jo -> 0
+jp -> 22984
+jq -> 5746
+jr -> 2873
+js -> 718
+jt -> 3071
+ju -> 520
+jv -> 65015
+jw -> 2551
+jx -> 8183
+jy -> 114
+jz -> 65421
+ka -> 8069
+kb -> 24525
+kc -> 6528
+kd -> 59007
+ke -> 17997
+kf -> 1
+kh -> 10037
+lb -> 20074
+ki -> 11492
+kj -> 32768
+kk -> 44260
+kl -> 11065
+km -> 5532
+kn -> 1383
+ko -> 5631
+kp -> 1284
+kq -> 64251
+kr -> 4347
+ks -> 15355
+kt -> 57
+ku -> 65478
+kv -> 15298
+kw -> 49126
+kx -> 10432
+ky -> 55103
+kz -> 38694
+la -> 0
+lc -> 20074
+lw -> 40148
+ld -> 22130
+le -> 0
+lf -> 22130
+lg -> 5532
+lh -> 2766
+li -> 691
+lj -> 2815
+lk -> 642
+ll -> 64893
+lm -> 2173
+ln -> 7677
+lo -> 28
+lp -> 65507
+lq -> 7649
+lr -> 24563
+ls -> 5216
+lt -> 60319
+lu -> 19347
+lv -> 1
+lx -> 40149
+a -> 40149
