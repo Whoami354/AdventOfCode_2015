@@ -1,6 +1,5 @@
-lines = input = open("input", "r", encoding='utf-8').read().strip()
-
 import json
+lines = input = open("input", "r", encoding='utf-8').read().strip()
 
 def sum_numbers(obj):
     if isinstance(obj, int):
