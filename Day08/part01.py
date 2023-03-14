@@ -1,4 +1,7 @@
-lines = open("input", "r", encoding='utf-8').read().strip().split('\n')
+# https://adventofcode.com/2015/day/8
+
+#"" -> 0
+#\\, \", \xXX -> 1
 
 import re
 
@@ -9,7 +12,7 @@ infile.close()
 summeZeichenVorher = 0
 summeZeichenNachher = 0
 
-for line in lines:
+for line in infileContent:
     print(line[:-1])
     print(len(line))
     summeZeichenVorher += len(line) - 1
@@ -17,7 +20,6 @@ for line in lines:
     line = re.sub('\\\\x[a-f0-9][a-f0-9]', 'X', line)
     line = line.replace('\\"', '\"')
     line = line.replace('\\\\', '\\')
-    line = line.replace(' ', '')
     summeZeichenNachher += len(line)
     print(line)
     print(len(line))
