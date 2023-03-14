@@ -23,7 +23,7 @@ for route in itertools.permutations(locations):
     for i in range(len(route) - 1):
         total_distance += distances.get((route[i + 1], route[i]), 0)
     # update the shortest distance if this route is shorter
-    if total_distance < shortest_distance and total_distance != 0:
+    if total_distance < shortest_distance:
         shortest_distance = total_distance
 
 print(shortest_distance)
