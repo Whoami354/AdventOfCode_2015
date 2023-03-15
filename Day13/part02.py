@@ -32,7 +32,9 @@ def calculate_happiness(people, happiness):
         # add happiness for first and last pair
         person1 = arragement[0]
         person2 = arragement[-1]
+        #print("person 1 and person 2", happiness[person1 + person2], person1, person2)
         happiness_gained += happiness[person1 + person2]
+        #print("person 2 and person 1", happiness[person1 + person2], person1, person2)
         happiness_gained += happiness[person2 + person1]
         maximum_happiness = max(maximum_happiness, happiness_gained)
 
@@ -46,4 +48,3 @@ for person in people:
     happiness[person + 'Self'] = 0
 people.add('Self')
 print(calculate_happiness(people, happiness))
-
