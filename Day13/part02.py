@@ -1,5 +1,4 @@
 import itertools
-from itertools import permutations
 
 lines = open("input", "r", encoding='utf-8').read().strip().split('\n')
 happiness = {}
@@ -42,7 +41,6 @@ def calculate_happiness(people, happiness):
 
 
 # calculate the optimal seating arrangement by trying all permutations of the people
-optimal_happiness = float('-inf')
 for person in people:
     happiness['Self' + person] = 0
     happiness[person + 'Self'] = 0

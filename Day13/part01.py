@@ -30,7 +30,6 @@ def calculate_happiness(seating_arrangement):
     return total_happiness
 
 # calculate the optimal seating arrangement by trying all permutations of the people
-optimal_happiness = float('-inf')
 for arrangement in permutations(people):
     max_values.append(calculate_happiness(arrangement))
 
