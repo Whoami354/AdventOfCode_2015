@@ -1,4 +1,4 @@
-lines = input = open("input", "r", encoding='utf-8').read().strip().split('\n')
+lines = open("input", "r", encoding='utf-8').read().strip().split('\n')
 reindeer = {}
 distances = []
 
