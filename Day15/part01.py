@@ -20,7 +20,6 @@ for amounts in combinations:
         durability = max(0, sum(amounts[i] * ingredients[z]['durability'] for i, z in enumerate(ingredients)))
         flavor = max(0, sum(amounts[i] * ingredients[z]['flavor'] for i, z in enumerate(ingredients)))
         texture = max(0, sum(amounts[i] * ingredients[z]['texture'] for i, z in enumerate(ingredients)))
-        calories = sum(amounts[i] * ingredients[z]['calories'] for i, z in enumerate(ingredients))
 
         score = capacity * durability * flavor * texture
         max_score = max(max_score, score)
