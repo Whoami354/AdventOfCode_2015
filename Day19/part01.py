@@ -1,7 +1,7 @@
 lines = open("input", "r", encoding='utf-8').read().strip().split('\n')
 
 replacements = {}
-medicine = ""
+medicine = lines[-1].strip()
 
 for line in lines:
     if "=>" in line:
@@ -12,8 +12,6 @@ for line in lines:
             replacements[key].append(value)
         else:
             replacements[key] = [value]
-    elif not "=>" in line and len(line) > 0:
-        medicine += line
 
 unique_molecules = set()
 for key in replacements:
