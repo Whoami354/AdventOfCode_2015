@@ -32,5 +32,5 @@ def calculate_square():
     return sum_square
 
 
-print(calculate_square())
-print(calculate_ribbon())
+print("Part 1:",calculate_square())
+print("Part 2:",calculate_ribbon())
