@@ -12,7 +12,7 @@ def calculate_ribbon():
         lh = 2 * length + 2 * height
         wh = 2 * width + 2 * height
         ribbon_bow = length * width * height
-        sum_ribbon += min(lw,lh,wh) + ribbon_bow
+        sum_ribbon += min(lw, lh, wh) + ribbon_bow
     return sum_ribbon
 
 
@@ -32,5 +32,5 @@ def calculate_square():
     return sum_square
 
 
-print("Part 1:",calculate_square())
-print("Part 2:",calculate_ribbon())
+print("Part 1:", calculate_square())
+print("Part 2:", calculate_ribbon())
