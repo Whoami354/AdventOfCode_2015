@@ -13,6 +13,7 @@ WEAPONS = [
     Item('Longsword', 40, 7, 0),
     Item('Greataxe', 74, 8, 0),
 ]
+
 ARMOR = [
     Item('Nothing', 0, 0, 0),
     Item('Leather', 13, 0, 1),
