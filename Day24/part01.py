@@ -1,35 +1,33 @@
 from itertools import combinations
-from math import prod
 
-packages = [
-    1, 3, 5, 11, 13, 17, 19, 23, 29, 31,
-    41, 43, 47, 53, 59, 61, 67, 71, 73,
-    79, 83, 89, 97, 101, 103, 107, 109, 113
-]
+def quantum_entanglement(packages):
+    return 1 if not packages else packages[0] * quantum_entanglement(packages[1:])
 
-
-def split_packages(packages, num_groups):
-    target_weight, remainder = divmod(sum(packages), num_groups)
-    if remainder != 0:
-        return None
+def find_groups(packages):
+    total_weight = sum(packages)
+    group_weight = total_weight // 3
 
     for group_size in range(1, len(packages)):
-        for first_group in combinations(packages, group_size):
-            if sum(first_group) != target_weight:
-                continue
+        for group in combinations(packages, group_size):
+            if sum(group) == group_weight:
+                remaining_packages = [p for p in packages if p not in group]
+                for second_group_size in range(1, len(remaining_packages)):
+                    for second_group in combinations(remaining_packages, second_group_size):
+                        if sum(second_group) == group_weight:
+                            third_group = [p for p in remaining_packages if p not in second_group]
+                            if sum(third_group) == group_weight:
+                                return group, second_group, third_group
 
-            remaining_packages = set(packages) - set(first_group)
-            for second_group in combinations(remaining_packages, len(remaining_packages) // 2):
-                third_group = remaining_packages - set(second_group)
-                if sum(second_group) == sum(third_group):
-                    return first_group, second_group, third_group
+    return None
 
+packages = [1, 3, 5, 11, 13, 17, 19, 23, 29, 31, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113]
 
-groups = split_packages(packages, 3)
-qe_values = [prod(g) for g in groups]
-min_qe = min(qe_values)
-
-for g, qe in zip(groups, qe_values):
-    if prod(g) == min_qe:
-        print(min_qe)
-        break
+groups = find_groups(packages)
+if groups:
+    first_group, second_group, third_group = groups
+    print("First group:", first_group)
+    print("Second group:", second_group)
+    print("Third group:", third_group)
+    print("Quantum entanglement of first group:", quantum_entanglement(first_group))
+else:
+    print("No solution found.")
