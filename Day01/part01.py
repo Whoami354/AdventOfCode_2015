@@ -7,4 +7,4 @@ for i in lines:
     elif i == ')':
         floor -= 1
 
-print(floor)
+print(lines.count('(') - lines.count(')'))
