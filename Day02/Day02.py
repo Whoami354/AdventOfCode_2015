@@ -27,8 +27,7 @@ def calculate_square():
         length_width = length * width
         width_height = width * height
         height_length = length * height
-        sum_square += (2 * length_width) + (2 * width_height) + (2 * height_length) + min(length_width, width_height,
-                                                                                          height_length)
+        sum_square += (2 * length_width) + (2 * width_height) + (2 * height_length) + min(length_width, width_height, height_length)
     return sum_square
 
 
