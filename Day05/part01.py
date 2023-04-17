@@ -19,5 +19,4 @@ for line in lines:
     if isNice and isTwoLetters:
         counter += 1
 
-
 print(counter)
