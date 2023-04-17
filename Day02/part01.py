@@ -1,8 +1,8 @@
 lines = open("input", "r", encoding='utf-8').read().strip().split('\n')
 
 sum_square = 0
-for i in lines:
-    value = i.split('x')
+for gift in lines:
+    value = gift.split('x')
     length, width, height = int(value[0]), int(value[1]), int(value[2])
     length_width = length * width
     width_height = width * height
