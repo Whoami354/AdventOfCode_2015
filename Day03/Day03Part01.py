@@ -2,7 +2,6 @@ lines = open("input", "r", encoding='utf-8').read().strip()
 x,y = 0, 0
 
 visited_houses = [(x,y)]
-atLeastOneVisit = []
 
 for i in lines:
     if i == '^':

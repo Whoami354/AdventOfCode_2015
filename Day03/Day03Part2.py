@@ -4,7 +4,6 @@ rx,ry = 0, 0
 counter = 0
 visited_houses = [(x,y)]
 robo_santa_visited_houses = [(rx,ry)]
-atLeastOneVisit = []
 result = []
 
 for i in lines:
