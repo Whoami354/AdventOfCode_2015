@@ -1,4 +1,4 @@
-lines = input = open("input", "r", encoding='utf-8').read().strip()
+lines = open("input", "r", encoding='utf-8').read().strip()
 
 floor = 0
 for i in lines:
