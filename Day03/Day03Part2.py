@@ -4,7 +4,6 @@ rx,ry = 0, 0
 counter = 0
 visited_houses = [(x,y)]
 robo_santa_visited_houses = [(rx,ry)]
-result = []
 
 for i in lines:
     if counter % 2 == 0:
@@ -16,8 +15,7 @@ for i in lines:
             x += 1
         elif i == '<':
             x -= 1
-        coordinates = (x, y)
-        visited_houses.append(coordinates)
+        visited_houses.append((x, y))
     else:
         if i == '^':
             ry += 1
@@ -27,8 +25,7 @@ for i in lines:
             rx += 1
         elif i == '<':
             rx -= 1
-        robo_coordinates = (rx, ry)
-        robo_santa_visited_houses.append(robo_coordinates)
+        robo_santa_visited_houses.append((rx, ry))
     counter += 1
-result += visited_houses + robo_santa_visited_houses
-print("Part 2:",len(set(result)))
+
+print("Part 2:",len(set(visited_houses + robo_santa_visited_houses)))

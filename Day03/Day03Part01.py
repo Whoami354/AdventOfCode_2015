@@ -2,6 +2,7 @@ lines = open("input", "r", encoding='utf-8').read().strip()
 x,y = 0, 0
 
 visited_houses = [(x,y)]
+visited_houses = set(visited_houses)
 
 for i in lines:
     if i == '^':
@@ -12,6 +13,6 @@ for i in lines:
         x += 1
     elif i == '<':
         x -= 1
-    coordinates = (x, y)
-    visited_houses.append(coordinates)
-print("Part 1:",len(set(visited_houses)))
+    visited_houses.add((x, y))
+
+print("Part 1:",len(visited_houses))
