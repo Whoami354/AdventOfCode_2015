@@ -3,7 +3,6 @@ x,y = 0, 0
 rx,ry = 0, 0
 counter = 0
 visited_houses = [(x,y)]
-robo_santa_visited_houses = [(rx,ry)]
 
 for i in lines:
     if counter % 2 == 0:
@@ -25,7 +24,7 @@ for i in lines:
             rx += 1
         elif i == '<':
             rx -= 1
-        robo_santa_visited_houses.append((rx, ry))
+        visited_houses.append((rx, ry))
     counter += 1
 
-print("Part 2:",len(set(visited_houses + robo_santa_visited_houses)))
+print("Part 2:",len(set(visited_houses)))
