@@ -1,6 +1,6 @@
 import json
 
-lines = input = open("input", "r", encoding='utf-8').read().strip()
+lines = open("input", "r", encoding='utf-8').read().strip()
 
 
 def sum_numbers(json_str):
