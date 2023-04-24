@@ -3,9 +3,11 @@ x,y = 0, 0
 rx,ry = 0, 0
 counter = 0
 visited_houses = [(x,y)]
+isRobotic = True
 
 for i in lines:
-    if counter % 2 == 0:
+    isRobotic = not isRobotic
+    if not isRobotic:
         if i == '^':
             y += 1
         elif i == 'v':
