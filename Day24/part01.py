@@ -8,15 +8,15 @@ def find_groups(packages):
     group_weight = total_weight // 3
 
     for group_size in range(1, len(packages)):
-        for group in combinations(packages, group_size):
-            if sum(group) == group_weight:
-                remaining_packages = [p for p in packages if p not in group]
+        for first_group in combinations(packages, group_size):
+            if sum(first_group) == group_weight:
+                remaining_packages = [p for p in packages if p not in first_group]
                 for second_group_size in range(1, len(remaining_packages)):
                     for second_group in combinations(remaining_packages, second_group_size):
                         if sum(second_group) == group_weight:
                             third_group = [p for p in remaining_packages if p not in second_group]
                             if sum(third_group) == group_weight:
-                                return group, second_group, third_group
+                                return first_group, second_group, third_group
 
     return None
 
